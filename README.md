@@ -82,14 +82,3 @@ This repository contains intentionally vulnerable code.
 All activities must be executed only in isolated, controlled environments for educational purposes.
 
 ---
-
-## 👨‍🏫 Maintainer
-
-Alexandre B Barreto
-
-CYSE 411 – Secure Software Engineering
-
-Department of Cyber Security Engineering (CYSE)
-
-George Mason University
-
