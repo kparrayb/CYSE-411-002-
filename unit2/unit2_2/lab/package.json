@@ -1,0 +1,21 @@
+{
+  "name": "cyse411-unit2-injection-lab",
+  "version": "1.0.0",
+  "description": "CYSE 411 Unit 2.2 – Injection Attacks & Input Handling Lab",
+  "main": "challenge/app.js",
+  "scripts": {
+    "start": "node challenge/app.js",
+    "test": "jest --runInBand"
+  },
+  "author": "CYSE 411 – Secure Software Engineering",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4",
+    "jsdom": "^24.0.0"
+  }
+}
